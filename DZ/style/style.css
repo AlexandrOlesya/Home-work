@@ -1,0 +1,78 @@
+
+
+body {
+	background:  url("Panda.jpg") top right no-repeat;
+	background-size: 200px;
+}
+
+li a {
+	color: red;
+	font-size: 2em;
+	font-family: Arial;
+	font-style: italic;
+	text-decoration: none;
+
+
+}
+
+.topics {
+	color: green;
+	font-size: 50px;
+	font-family: Arial;
+	text-decoration: none;
+	border: black solid;
+	border-width: 0px 0px 2px;
+}
+
+.color{
+	background-color: #b4b3ea
+}
+
+.next:hover {
+	text-decoration: none;
+	color: #58f900;
+}
+
+.comment {
+	color: #7b7d7b;
+}
+
+.center{
+	border: 4px red dotted;
+	font-size: 100px;
+	text-align: center;
+}
+
+.first-letter:first-letter{
+	color: #f4250a;
+	font-size: 60px;
+	font-style: italic;
+}
+
+.flower{
+	list-style-image: url(pink_flower.png);
+	list-style-position: inside;
+}
+
+.toys{
+	list-style-image: url(mydocuments.png);
+	list-style-position: inside;
+}
+
+.book{
+	list-style-image: url(emblem_library.png);
+	list-style-position: inside;	
+}
+
+.bol strong1 {
+	font-size: 30px;
+	background-color: #bff8ef;
+}
+
+.bol strong2 {
+	font-size: 15px;
+	background-color: #e6f8bf;
+}
+.bol {
+	width: 200px
+}
