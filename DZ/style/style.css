@@ -20,7 +20,7 @@ li a {
 	font-size: 50px;
 	font-family: Arial;
 	text-decoration: none;
-	border: black solid;
+	border: black solid; /*border-bottom для нижнего подчеркивания*/
 	border-width: 0px 0px 2px;
 }
 
@@ -93,7 +93,7 @@ li a {
 	border: 3px solid red;
 
 }
-
+										/*outline none*/
 .img_bord:hover {
 	border: 3px solid transparent;
 }
