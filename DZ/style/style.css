@@ -97,3 +97,39 @@ li a {
 .img_bord:hover {
 	border: 3px solid transparent;
 }
+
+.width {
+	width: 300px;
+}
+
+.width1 {
+	width: 500px;
+}
+
+.width2 {
+	width: 300px;
+}
+
+.width2:focus {
+	color: red;
+	background-color: blue;
+}
+
+.save:active {
+background-color: red;
+
+}
+
+.clean:active {
+background-color: blue;
+}
+
+.radio:hover {
+	outline: dotted 2px black;
+
+}
+
+.cap {
+	text-transform: capitalize;
+	width: 300px;
+}
