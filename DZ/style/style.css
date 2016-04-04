@@ -133,3 +133,11 @@ background-color: blue;
 	text-transform: capitalize;
 	width: 300px;
 }
+
+.min {
+     min-height: 800px;
+ }
+
+.min1 {
+    min-height: 300px;
+}
