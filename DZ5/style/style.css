@@ -1,0 +1,287 @@
+.main {
+    width: 400px;
+    height: 400px;
+    outline: 2px solid #000000;
+
+}
+.green {
+    width: 200px;
+    height: 200px;
+    background-color: forestgreen;
+    position: relative;
+    bottom: 400px;
+
+}
+
+
+.black {
+    width: 200px;
+    height: 200px;
+    background-color: #000000;
+    position: relative;
+    bottom: 400px;
+
+}
+.white {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    position: relative;
+    bottom: 800px;
+    left: 200px;
+}
+.brown {
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    position: relative;
+    bottom: 800px;
+    left: 200px;
+}
+
+.gray {
+    width: 700px;
+    height: 300px;
+    outline: 2px solid #000000;
+    background-color: lightgray;
+    position: absolute;
+    left: 450px;
+    top: 8px;
+    padding:50px;
+}
+
+.red {
+    width: 700px;
+    height: 300px;
+    background: red;
+
+}
+
+.green a {
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+
+.blue1 {
+    width: 300px;
+    height: 300px;
+    background: blue;
+    position: absolute;
+    top: 275px;
+    left: 275px;
+}
+
+.blue2 {
+    width: 300px;
+    height: 300px;
+    background: blue;
+    position: absolute;
+    top: 275px;
+    left: 600px;
+}
+
+.blue3 {
+    width: 300px;
+    height: 300px;
+    background: blue;
+    position: absolute;
+    top: 275px;
+    left: 925px;
+}
+
+
+
+
+/*страница 2*/
+
+.gray_menu {
+    width: 1100px;
+    height: 400px;
+    outline: 1px solid #000000;
+    background: lightgrey;
+
+
+}
+
+.punkt1 {
+    width: 6em;
+    height: 1em;
+    background: firebrick;
+    text-align: center;
+    outline: 2px solid #000000;
+    padding: 3em;
+    float: left;
+
+
+}
+
+.punkt2 {
+    width: 6em;
+    height: 1em;
+    background: firebrick;
+    text-align: center;
+    outline: 2px solid #000000;
+    padding: 3em;
+    float: left;
+
+
+
+}
+
+.punkt3 {
+    width: 6em;
+    height: 1em;
+    background: firebrick;
+    text-align: center;
+    outline: 2px solid #000000;
+    padding: 3em;
+    float: left;
+
+
+
+}
+
+.punkt4 {
+    width: 6em;
+    height: 1em;
+    background: firebrick;
+    text-align: center;
+    outline: 2px solid #000000;
+    padding: 3em;
+    float: left;
+
+
+
+}
+
+.punkt5 {
+    width: 6em;
+    height: 1em;
+    background: firebrick;
+    text-align: center;
+    outline: 2px solid #000000;
+    padding: 3em;
+    float: left;
+
+
+
+}
+
+.img {
+    width: 150px;
+    display: block;
+    position: absolute;
+    top: 130px;
+    left: 10px;
+
+}
+
+.text {
+    color: white;
+
+}
+
+.text:hover {
+    color: red;
+}
+
+.punkt1:hover {
+    background: yellow;
+    outline: 2px solid black;
+}
+
+.punkt2:hover {
+    background: yellow;
+    outline: 2px solid black;
+}
+
+.punkt3:hover {
+    background: yellow;
+    outline: 2px solid black;
+}
+
+.punkt4:hover {
+    background: yellow;
+    outline: 2px solid black;
+}
+
+.punkt5:hover {
+    background: yellow;
+    outline: 2px solid black;
+}
+
+.border1 {
+    width: 12em;
+    height: 20em;
+    position: absolute;
+    top: 18px;
+    left: 50px;
+
+}
+
+.border1:hover {
+    outline: 2px solid #000000;
+
+
+}
+
+.border2 {
+    width: 12em;
+    height: 20em;
+    position: absolute;
+    top: 18px;
+    left: 250px;
+
+}
+
+.border2:hover {
+    outline: 2px solid #000000;
+
+
+}
+
+.border3 {
+    width: 12em;
+    height: 20em;
+    position: absolute;
+    top: 18px;
+    left: 450px;
+
+}
+
+.border3:hover {
+    outline: 2px solid #000000;
+
+
+}
+
+.border4 {
+    width: 12em;
+    height: 20em;
+    position: absolute;
+    top: 18px;
+    left: 650px;
+
+}
+
+.border4:hover {
+    outline: 2px solid #000000;
+
+
+}
+
+.border5 {
+    width: 12em;
+    height: 20em;
+    position: absolute;
+    top: 18px;
+    left: 850px;
+
+}
+
+.border5:hover {
+    outline: 2px solid #000000;
+
+
+}

@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02db8d94-76b9-4f5b-aa49-f397ddb666b2" name="Default" comment="" />
-    <ignored path="DZ.iws" />
+    <list default="true" id="5d372cec-e7c4-4292-8f1c-6b36b11aa273" name="Default" comment="" />
+    <ignored path="DZ5.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="02db8d94-76b9-4f5b-aa49-f397ddb666b2" time="1459794345604" ignored="false" />
-    <file path="/style.css" changelist="02db8d94-76b9-4f5b-aa49-f397ddb666b2" time="1459800817899" ignored="false" />
-    <file path="/Registration.html" changelist="02db8d94-76b9-4f5b-aa49-f397ddb666b2" time="1459761423642" ignored="false" />
-    <file path="/Galary.html" changelist="02db8d94-76b9-4f5b-aa49-f397ddb666b2" time="1459775037805" ignored="false" />
-    <file path="/Contacts.html" changelist="02db8d94-76b9-4f5b-aa49-f397ddb666b2" time="1459761645553" ignored="false" />
-    <file path="/Catalog.html" changelist="02db8d94-76b9-4f5b-aa49-f397ddb666b2" time="1459761703201" ignored="false" />
-    <file path="/Articles.html" changelist="02db8d94-76b9-4f5b-aa49-f397ddb666b2" time="1459761740673" ignored="false" />
-    <file path="/Tables.html" changelist="02db8d94-76b9-4f5b-aa49-f397ddb666b2" time="1459801148757" ignored="false" />
+    <file path="/index.html" changelist="5d372cec-e7c4-4292-8f1c-6b36b11aa273" time="1460054906946" ignored="false" />
+    <file path="/style.css" changelist="5d372cec-e7c4-4292-8f1c-6b36b11aa273" time="1460054192154" ignored="false" />
+    <file path="/page2.html" changelist="5d372cec-e7c4-4292-8f1c-6b36b11aa273" time="1460054226113" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +22,38 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="DZ" />
+    <favorites_list name="DZ5" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="36" selection-start="285" selection-end="285" vertical-scroll-proportion="0.41666666">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="179" column="0" selection-start="2388" selection-end="2388" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page2.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page2/page2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="0" selection-start="946" selection-end="946" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -40,15 +63,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Registration/Registration.html" />
-        <option value="$PROJECT_DIR$/Articles/Articles.html" />
-        <option value="$PROJECT_DIR$/Catalog/Catalog.html" />
-        <option value="$PROJECT_DIR$/Contacts/Contacts.html" />
-        <option value="$PROJECT_DIR$/Galary/Galary.html" />
-        <option value="$PROJECT_DIR$/Tables/Tables2.html" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/page2/page2.html" />
         <option value="$PROJECT_DIR$/style/style.css" />
-        <option value="$PROJECT_DIR$/Tables/Tables.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -58,6 +75,25 @@
     <option name="y" value="10" />
     <option name="width" value="1516" />
     <option name="height" value="824" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CssInvalidShorthandPropertyValue</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -85,45 +121,32 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DZ" />
+              <option name="myItemId" value="DZ5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DZ" />
+              <option name="myItemId" value="DZ5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DZ" />
+              <option name="myItemId" value="DZ5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DZ" />
+              <option name="myItemId" value="DZ5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DZ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tables" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DZ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DZ" />
+              <option name="myItemId" value="DZ5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -133,37 +156,31 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DZ" />
+              <option name="myItemId" value="DZ5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DZ" />
+              <option name="myItemId" value="DZ5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Registration" />
+              <option name="myItemId" value="page2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DZ5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DZ/style/style.css" />
     <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\PHP\DZ\Tables" />
-      <recent name="D:\PHP\DZ\style" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
@@ -178,24 +195,24 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="02db8d94-76b9-4f5b-aa49-f397ddb666b2" name="Default" comment="" />
-      <created>1459711771013</created>
-      <updated>1459711771013</updated>
+      <changelist id="5d372cec-e7c4-4292-8f1c-6b36b11aa273" name="Default" comment="" />
+      <created>1460029406084</created>
+      <updated>1460029406084</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="10" width="1516" height="824" extended-state="0" />
-    <editor active="false" />
+    <frame x="10" y="10" width="1516" height="824" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26753783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2565337" sideWeight="0.67018074" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -268,84 +285,59 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Contacts/Contacts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="18" selection-start="1628" selection-end="1628" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Catalog/Catalog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="18" selection-start="1279" selection-end="1279" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Articles/Articles.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="18" selection-start="1727" selection-end="1727" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Registration/Registration.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="19" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="37" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="560" selection-end="560" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Articles/Articles.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="11" selection-start="499" selection-end="499" vertical-scroll-proportion="-11.115385" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contacts/Contacts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="11" selection-start="493" selection-end="493" vertical-scroll-proportion="-9.807693" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Galary/Galary.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="11" selection-start="517" selection-end="517" vertical-scroll-proportion="-11.115385" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Catalog/Catalog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="11" selection-start="498" selection-end="498" vertical-scroll-proportion="-4.576923" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style/style2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="632" selection-end="632" vertical-scroll-proportion="-8.5" />
+        <state line="15" column="51" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="198" column="22" selection-start="2468" selection-end="2468" vertical-scroll-proportion="0.70689654" />
+        <state line="179" column="0" selection-start="2388" selection-end="2388" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Registration/Registration.html">
+    <entry file="file://$PROJECT_DIR$/page2/page2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="8" selection-start="1894" selection-end="1953" vertical-scroll-proportion="0.82843137" />
+        <state line="19" column="0" selection-start="946" selection-end="946" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tables/Tables.html">
+    <entry file="file://$PROJECT_DIR$/../DZ/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="78" selection-start="2639" selection-end="2639" vertical-scroll-proportion="0.7762938" />
+        <state line="4" column="68" selection-start="16" selection-end="139" vertical-scroll-proportion="0.11111111" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tables/Tables2.html">
+    <entry file="file://$PROJECT_DIR$/../DZ/Registration/Registration.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="42" selection-start="481" selection-end="481" vertical-scroll-proportion="0.027777778">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DZ/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="8" selection-start="426" selection-end="428" vertical-scroll-proportion="0.7487765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/page2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="946" selection-end="946" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="0" selection-start="2388" selection-end="2388" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="36" selection-start="285" selection-end="285" vertical-scroll-proportion="0.41666666">
           <folding />
         </state>
       </provider>
